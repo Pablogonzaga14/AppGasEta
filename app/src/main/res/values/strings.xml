@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppGazEta</string>
+    <string name="txt_titulo">Gasolina x Etanol</string>
+    <string name="txt_hint_Gasolina">R$ Litro/Gasolina?</string>
+    <string name="txt_hint_Etanol">R$ Litro/Etanol</string>
+    <string name="txt_hint_nomecurso">Nome do curso</string>
+    <string name="txt_telefone_de_contato">Telefone de Contato</string>
+    <string name="txt_hint_resultado">RESULTADO</string>
+</resources>
